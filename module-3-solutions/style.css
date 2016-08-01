@@ -1,0 +1,67 @@
+/** HEADER **/
+
+nav#header-nav.navbar.navbar-default {
+	background-color: grey;
+	border-width: 3px;
+	border-color:black;
+	height: 100px;
+}
+
+.navbar-brand h1{
+	font-family: 'Comic Sans MS';
+	color: #000000;
+	font-weight: bold;
+	margin-top: 10px;
+	margin-left: 30px
+	margin-bottom:50px;
+}
+#nav-list a {
+	
+	background-color: white;
+	text-align: center;
+	font-family: "Comic Sans MS";
+	font-weight: bold;
+	color: black;
+	font-size: 1.4em;
+}
+
+#nav-list a:hover {
+	background-color: grey;
+	border:3px;
+	border-color: black;
+
+}
+button.navbar-toggle {
+  clear: all;
+ 
+
+}
+.navbar-default .navbar-toggle {
+    border-color: black;
+    border-width: 3px;
+    float: right;
+
+}
+span .icon-bar{
+	color: black;
+}
+/** main content **/
+h2{
+	font-weight: bold;
+	font-family: "Comic Sans MS";
+}
+.container  {
+	background-color: grey;
+	font-weight: bold;
+	font-family: "Comic Sans MS";
+
+}
+.container p #main-content{
+	margin: 50px;
+
+}
+h3{
+	font-weight: bold;
+	font-family: "Comic Sans MS";
+
+}
